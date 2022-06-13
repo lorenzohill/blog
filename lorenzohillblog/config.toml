@@ -1,0 +1,5 @@
+baseURL = "https://lorenzohill.github.io/"
+languageCode = "en-us"
+title = "Lorenzo Hill Front-End Tech Website"
+
+theme = "PaperMod"
