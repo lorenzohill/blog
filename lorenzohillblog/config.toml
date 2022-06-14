@@ -1,5 +1,21 @@
 baseURL = "https://lorenzohill.github.io/"
 languageCode = "en-us"
-title = "Lorenzo Hill Front-End Tech Website"
+title = "Lorenzo Hill Front-End Dev Website"
 
 theme = "PaperMod"
+
+[params.homeInfoParams]
+  Title = "Hi there 👋"
+  Content = "Welcome to my  dev blog. I started The Odin Project in June of 2022. This blog is to show my progress through TOP and the concepts that I learn."
+
+  [[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/lorenzohill"
+ 
+  [[params.socialIcons]]
+  name = "linkedin"
+  url = "https://www.linkedin.com/in/lorenzo-hill-22a167201/"
+
+  [[params.socialIcons]]
+  name = "Porfoilo"
+  url = "https://www.linkedin.com/in/lorenzo-hill-22a167201/"
